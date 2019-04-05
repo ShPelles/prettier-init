@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "inquirer": "^6.0.0",
-    "js-yaml": "^3.11.0"
+    "js-yaml": "^3.13.1"
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^13.0.0",
